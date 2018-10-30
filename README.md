@@ -81,9 +81,9 @@ Las preguntas extra tratan de las tecnologias que más usan los desarrolladores 
 
 | Equipo | Integrantes |
 | ------ | ----------- |
-| 1      |             |
-| 2      |             |
-| 3      |             |
+| 1      | Cabello Aguilar Héctor Eduardo            |
+| 2      | Rodriguez Dávalos Carolina            |
+| 3      | Montiel Martínez Luis Javier            |
 | 4      |             |
 | 5      |             |
 
